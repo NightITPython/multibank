@@ -1,0 +1,8 @@
+multibank/
+├── index.html          # Главный HTML файл
+├── privat.png         # Логотип ПриватБанка
+├── mono.png           # Логотип Монобанка
+├── oshad.png          # Логотип Ощадбанка
+├── raif.png           # Логотип Райффайзен
+├── pumb.png           # Логотип ПУМБ
+└── logo.png           # Логотип VOBU
